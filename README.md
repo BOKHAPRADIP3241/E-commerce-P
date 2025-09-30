@@ -13,9 +13,10 @@ Clone repo and run these commands:
 # 1️⃣ Backend Setup
 cd Ecommerce_Practical/Backend
 npm install
-npm start   # runs on http://localhost:5000
+npm start   
 
 # 2️⃣ Frontend Setup
 cd ../Frontend/E-commerce
 npm install
-npm run dev # runs on http://localhost:5173
+npm run dev
+
